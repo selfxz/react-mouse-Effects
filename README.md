@@ -3,7 +3,7 @@
 ## installation
 - Clone The repo with
 ```
-  git clone https://github.com/selfxz/React-Juego-MIchi.git
+  git clone https://github.com/selfxz/react-mouse-Effects.git
 ```
 
 - Install npm packages :
